@@ -64,15 +64,7 @@ a[id="actived"]
     margin-right: auto;
  }
  
- .container2
- {
-    width: 54%;
-    justify-content: left;
-    margin-left: 10%;
-    margin-right: auto;
-    background-color: #F7FFF7;;
-    margin-top: 10px;
- }
+
 
  .kontejner
  {
@@ -96,6 +88,10 @@ a[id="actived"]
     align-items: center;
     text-align: center;
  }
+
+ 
+
+
  .container3
  {
     width: 80%;
@@ -108,15 +104,26 @@ a[id="actived"]
     padding: 10px;
     background-color: #4E598C;;
  }
+
+ .container2
+ {
+    width: 25%;
+    justify-content: left;
+    margin-left: 10%;
+    margin-right: auto;
+    background-color: #4E598C;
+    margin-top: 10px;
+ }
+
  .containerd
  {
-    width:25% ;
+    width:54% ;
     height: auto;
     margin-right: 10%;
     margin-left: auto;
     background-color: #F7FFF7;
-    margin-top: -310px;
-    background-color: #4E598C;
+    margin-top: -200px;
+    background-color: #F7FFF7;;
     text-align: center;
     padding-bottom: 1%;
     margin-bottom: 10%;
